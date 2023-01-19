@@ -1,68 +1,62 @@
 .header-section {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-
-body {
-  position: absolute;
-  width: 375px;
-  height: 718px;
-  left: 0;
-  top: 1px;
-  background: #fff;
-}
-
-h1 {
-  width: 327px;
-  height: 150px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  display: flex;
-  align-items: center;
-  color: #172b4d;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.text1 {
-  width: 327px;
-  height: 146px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: #344563;
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-}
-
-.text2 {
-  width: 117px;
-  height: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #7f8cff;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
-}
-
-.main-section {
-  background-image: url("images/header-shapes mobile.png"), url("images/header-background-mobile.svg");
-  background-repeat: no-repeat;
-}
-
-.social-icon {
-  display: flex;
-  gap: 19px;
-}
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  body {
+    position: absolute;
+    width: 375px;
+    height: 718px;
+    left: 0;
+    top: 1px;
+    background: #fff;
+  }
+  h1 {
+    width: 327px;
+    height: 150px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #172b4d;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .text1 {
+    width: 327px;
+    height: 146px;
+    font-family:'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  .text2 {
+    width: 117px;
+    height: 24px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .main-section {
+    background-image: url("images/header-shapes mobile.png"), url("images/header-shapes mobile.png");
+    background-repeat: no-repeat;
+  }
+  .social-icon {
+    display: flex;
+    gap: 19px;
+  }

@@ -18,7 +18,6 @@ Theddy Portfolio
 - [🤝 Contributing]
 - [⭐️ Show your support]
 - [🙏 Acknowledgements]
-- [❓ FAQ (OPTIONAL)]
 - [📝 License]
 
  📖 [porfolio] 

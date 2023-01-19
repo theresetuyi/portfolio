@@ -40,24 +40,18 @@ version control system
 Setup
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
   cd my-folder
   git clone git@github.com:theresetuyi/porfolio.git
 
---->
 
 Install
 
 Install this project with:
 
-```sh
+
   cd my-project
   npm install
 
---->
 
 Usage
 

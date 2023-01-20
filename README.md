@@ -24,11 +24,14 @@ Theddy Portfolio
  [porfolio]is main section of Portfolio project,as part of activity of Microverse.
 
  🛠 Built With 
+
+
   html&css
   Fagma
   Git,Github and Visual Studio Code
 
  💻 Getting Started 
+ 
 To get a local copy up and running, follow these steps.
 
  Prerequisites

@@ -27,7 +27,9 @@ Theddy Portfolio
 
 
   html&css
+  
   Fagma
+  
   Git,Github and Visual Studio Code
 
  💻 Getting Started 

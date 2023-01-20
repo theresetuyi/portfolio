@@ -20,12 +20,13 @@ Theddy Portfolio
 - [📝 License]
 
  📖 [porfolio] 
-
- [porfolio]is main section of Portfolio project
+ 
+ [porfolio]is main section of Portfolio project,as part of activity of Microverse.
 
  🛠 Built With 
-html
-css
+  html&css
+  Fagma
+  Git,Github and Visual Studio Code
 
  💻 Getting Started 
 To get a local copy up and running, follow these steps.

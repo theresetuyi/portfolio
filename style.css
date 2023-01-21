@@ -358,4 +358,4 @@ section {
 .grid-container .project:hover {
   background: var(--color);
   color: #fff;
-}
+};

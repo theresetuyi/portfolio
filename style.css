@@ -240,11 +240,6 @@ section {
   margin-bottom: 1rem;
 }
 
-.about-content1 .project:hover {
-  background: var(--color);
-  color: #fff;
-}
-
 .contact-form .project {
   padding: 1rem 1rem;
   border-radius: 0.5rem;
@@ -255,6 +250,11 @@ section {
   cursor: pointer;
   margin-bottom: 1rem;
   width: 50%;
+}
+
+.about-content1 .project:hover {
+  background: var(--color);
+  color: #fff;
 }
 
 .about-content2 h2 {
@@ -359,5 +359,3 @@ section {
   background: var(--color);
   color: #fff;
 }
-
-

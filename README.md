@@ -1,5 +1,9 @@
-
-Theddy Portfolio
+ desktop-version
+<a name="readme-top"></a>
+Desktop version day2
+<div align="center">
+  <h3><b>Microverse README Template</b></h3>
+</div>
 
 # 📗 Table of Contents
 
@@ -20,15 +24,21 @@ Theddy Portfolio
 - [🙏 Acknowledgements]
 - [📝 License]
 
- 📖 [porfolio] 
-
- [porfolio]is main section of Portfolio project
+ 📖 [desktop-version] 
+ 
+ [desktop-version]is main section of desktop- version,as part of activity of Microverse.This is last project of second week to share portfolio as profession by using good practis of html and css. 
 
  🛠 Built With 
-html
-css
+
+
+  html&css
+  
+  Fagma
+  
+  Git,Github and Visual Studio Code
 
  💻 Getting Started 
+ 
 To get a local copy up and running, follow these steps.
 
  Prerequisites
@@ -63,6 +73,11 @@ If you have live server extension
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
+👥 Authors 
+
+- GitHub:https://github.com/Gardimy
+- Twitter:https://twitter.com/
+- LinkedIn:https://www.linkedin.com/in/gardimy-charles-40b795212/
 
  🔭 Future Features 
  

@@ -37,14 +37,14 @@ body {
 
   to {
     transform: rotateX(360deg);
-  }
+  } 
 }
 
 #menu {
   display: none;
 }
 
-@media screen and (min-width: 768px) {
+ @media screen and (min-width: 768px) {
   #menu {
     display: flex;
     list-style: none;
@@ -67,7 +67,7 @@ body {
   #menu a:hover {
     transform: translateY(-10px);
   }
-}
+ } 
 
 header {
   background-color: #fff;
@@ -653,26 +653,4 @@ form {
     margin-left: auto;
     margin-right: auto;
   }
-
-  #menu a:hover {
-    transform: translateY(-5px);
-  }
-
-  .form-input {
-    transition: all;
-    transition-duration: 1s;
-  }
-
-  .form-input:hover {
-    transform: translate(10px);
-  }
-
-  .form-textarea {
-    transition: all;
-    transition-duration: 1s;
-  }
-
-  .form-textarea:hover {
-    transform: translate(10px);
-  }
-  
+}

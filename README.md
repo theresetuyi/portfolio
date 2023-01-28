@@ -1,4 +1,12 @@
-Theddy Portfolio
+<a name="readme-top"></a>
+<div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 
 # 📗 Table of Contents
 
@@ -19,9 +27,9 @@ Theddy Portfolio
 - [🙏 Acknowledgements]
 - [📝 License]
 
- 📖 [porfolio] 
+ 📖 [desktop-version] 
  
- [porfolio]is main section of Portfolio project,as part of activity of Microverse.
+ [desktop-version]is main section of Portfolio project,as part of activity of Microverse.
 
  🛠 Built With 
 

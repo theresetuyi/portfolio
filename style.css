@@ -38,7 +38,6 @@ body {
   to {
     transform: rotateX(360deg);
   }
- 
 }
 
 #menu {
@@ -68,8 +67,7 @@ body {
   #menu a:hover {
     transform: translateY(-10px);
   }
-
-} 
+}
 
 header {
   background-color: #fff;

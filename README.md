@@ -1,6 +1,8 @@
+
+Theddy Portfolio
  desktop-version
 <a name="readme-top"></a>
-Desktop version day2
+Desktop version day
 <div align="center">
   <h3><b>Microverse README Template</b></h3>
 </div>
@@ -69,7 +71,7 @@ If you have live server extension
 
 👥 Authors 
 
-- GitHub: https://github.com/theresetuyi
+- GitHub:https://github.com/theresetuyi
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
@@ -84,6 +86,10 @@ If you have live server extension
 -I will like to add new technology
 -I will lake to add js code 
 -I would still let it be public
+
+  🚀 Live Demo
+  
+    - GitHub:  https://theresetuyi.github.io/porfolio/
 
 🤝 Contributing
 

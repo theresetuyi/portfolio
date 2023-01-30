@@ -1,4 +1,11 @@
-Theddy Portfolio 
+
+Theddy Portfolio
+ desktop-version
+<a name="readme-top"></a>
+Desktop version day
+<div align="center">
+  <h3><b>Microverse README Template</b></h3>
+</div>
 
 # 📗 Table of Contents
 
@@ -19,9 +26,9 @@ Theddy Portfolio
 - [🙏 Acknowledgements]
 - [📝 License]
 
- 📖 [porfolio] 
+ 📖 [desktop-version] 
  
- [porfolio]is main section of Portfolio project,as part of activity of Microverse.
+ [desktop-version]is main section of desktop- version,as part of activity of Microverse.This is last project of second week to share portfolio as profession by using good practis of html and css. 
 
  🛠 Built With 
 
@@ -68,6 +75,11 @@ If you have live server extension
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
+👥 Authors 
+
+- GitHub:https://github.com/Gardimy
+- Twitter:https://twitter.com/
+- LinkedIn:https://www.linkedin.com/in/gardimy-charles-40b795212/
 
  🔭 Future Features 
  

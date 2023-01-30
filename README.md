@@ -1,4 +1,4 @@
-Theddy Portfolio
+Theddy Portfolio 
 
 # 📗 Table of Contents
 
@@ -64,7 +64,7 @@ If you have live server extension
 
 👥 Authors 
 
-- GitHub: https://github.com/theresetuyi
+- GitHub:  https://theresetuyi.github.io/porfolio/
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 

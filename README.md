@@ -71,7 +71,7 @@ If you have live server extension
 
 👥 Authors 
 
-- GitHub:  https://theresetuyi.github.io/porfolio/
+- GitHub:https://github.com/theresetuyi
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
@@ -86,6 +86,10 @@ If you have live server extension
 -I will like to add new technology
 -I will lake to add js code 
 -I would still let it be public
+
+  🚀 Live Demo
+  
+    - GitHub:  https://theresetuyi.github.io/porfolio/
 
 🤝 Contributing
 

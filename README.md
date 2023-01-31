@@ -1,5 +1,5 @@
 
-Theddy Portfolio
+Therese && Hamdullah
 
 # 📗 Table of Contents
 
@@ -63,6 +63,11 @@ If you have live server extension
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
+👥 Authors
+
+- GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
+- Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
  🔭 Future Features 
  

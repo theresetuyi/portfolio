@@ -74,19 +74,18 @@ If you have live server extension
 
 - GitHub: https://github.com/theresetuyi
 - Twitter:https://twitter.com/THERESETUYISAB2
-- LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
+- LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/
 
 ## 👥 Authors 
 
-- GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
-- Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
+- GitHub: https://github.com/Hamdullah-Andar
+- Twitter: https://twitter.com/HamdullahAndar
+- LinkedIn: https://www.linkedin.com/in/hamdullah-andar-98b35894/
 
  ## 🔭 Future Features 
  
 -I will like to add new technology
 -I will lake to add js code 
--I would still let it be public
 
 ## 🤝 Contributing
 

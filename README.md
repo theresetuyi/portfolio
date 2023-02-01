@@ -7,28 +7,30 @@ Accessibilty day 2
 
 # 📗 Table of Contents
 
-- [📖 About the Project]
-  - [🛠 Built With]
-  - [🚀 Live Demo]
-- [💻 Getting Started]
-  - [Setup]
-  - [Prerequisites]
-  - [Install]
-  - [Usage]
-  - [Run tests]
-  - [Deployment]
-- [👥 Authors]
-- [🔭 Future Features]
-- [🤝 Contributing]
-- [⭐️ Show your support]
-- [🙏 Acknowledgements]
-- [📝 License]
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
- 📖 [Accessibility] 
+ ## 📖 [Accessibility] 
  
  [Accessibility] is another milestone of portfolio project where we implement all accessibility measurment to our project to make more accessable to disale people. which are unable to have access to our portfolio project in normal mode.
 
- 🛠 Built With 
+ ## 🛠 Built With 
 
 
   html&css
@@ -37,23 +39,25 @@ Accessibilty day 2
   
   Git,Github and Visual Studio Code
 
- 💻 Getting Started 
+ ## 💻 Getting Started 
  
 To get a local copy up and running, follow these steps.
 
- Prerequisites
+##  Prerequisites
 
 In order to run this project you need:
 VSCode 
 version control system
-Setup
+
+## Setup
+
 Clone this repository to your desired folder:
 
   cd my-folder
   git clone git@github.com:theresetuyi/porfolio.git
 
 
-Install
+### Install
 
 Install this project with:
 
@@ -61,31 +65,30 @@ Install this project with:
   cd my-project
   npm install
 
-
-Usage
+## Usage
 
 To run the project, execute the following command:
 If you have live server extension
 
-👥 Authors 
+## 👥 Authors 
 
 - GitHub: https://github.com/theresetuyi
 - Twitter:https://twitter.com/THERESETUYISAB2
 - LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
 
-👥 Authors 
+## 👥 Authors 
 
 - GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
 - Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
- 🔭 Future Features 
+ ## 🔭 Future Features 
  
 -I will like to add new technology
 -I will lake to add js code 
 -I would still let it be public
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -93,19 +96,19 @@ Feel free to check the [issues page]
 https://github.com/theresetuyi/porfolio/issues
 
 
-⭐️ Show your support 
+## ⭐️ Show your support 
 
  Write a message to encourage readers to support your project
 
 If you like this project type ❤❤
 
- 🙏 Acknowledgments 
+ ## 🙏 Acknowledgments 
 
  Give credit to everyone who inspired your codebase.
 
 I would like to thank my partner 
 
-📝 License 
+## 📝 License 
 
 This project is [MIT](./LICENSE) licensed.
 

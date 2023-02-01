@@ -1,6 +1,6 @@
- desktop-version
+ Accessibility
 <a name="readme-top"></a>
-Desktop version day2
+Accessibilty day 2
 <div align="center">
   <h3><b>Microverse README Template</b></h3>
 </div>
@@ -24,9 +24,9 @@ Desktop version day2
 - [🙏 Acknowledgements]
 - [📝 License]
 
- 📖 [desktop-version] 
+ 📖 [Accessibility] 
  
- [desktop-version]is main section of desktop- version,as part of activity of Microverse.This is last project of second week to share portfolio as profession by using good practis of html and css. 
+ [Accessibility] is another milestone of portfolio project where we implement all accessibility measurment to our project to make more accessable to disale people. which are unable to have access to our portfolio project in normal mode.
 
  🛠 Built With 
 
@@ -75,9 +75,9 @@ If you have live server extension
 
 👥 Authors 
 
-- GitHub:https://github.com/Gardimy
-- Twitter:https://twitter.com/
-- LinkedIn:https://www.linkedin.com/in/gardimy-charles-40b795212/
+- GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
+- Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
  🔭 Future Features 
  

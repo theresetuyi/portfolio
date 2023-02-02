@@ -1,59 +1,80 @@
- desktop-version
+ Accessibility day 2
 <a name="readme-top"></a>
-Desktop version day2
+Accessibilty day 2
 <div align="center">
   <h3><b>Microverse README Template</b></h3>
 </div>
 
 # 📗 Table of Contents
 
-- [📖 About the Project]
-  - [🛠 Built With]
-  - [🚀 Live Demo]
-- [💻 Getting Started]
-  - [Setup]
-  - [Prerequisites]
-  - [Install]
-  - [Usage]
-  - [Run tests]
-  - [Deployment]
-- [👥 Authors]
-- [🔭 Future Features]
-- [🤝 Contributing]
-- [⭐️ Show your support]
-- [🙏 Acknowledgements]
-- [📝 License]
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
- 📖 [desktop-version] 
+ ## 📖 [Accessibility] 
  
- [desktop-version]is main section of desktop- version,as part of activity of Microverse.This is last project of second week to share portfolio as profession by using good practis of html and css. 
+ [Accessibility] is another milestone of portfolio project where we implement all accessibility measurment to our project to make more accessable to disale people. which are unable to have access to our portfolio project in normal mode.
 
- 🛠 Built With 
+ ## 🛠 Built With 
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/"> html&css</a></li>
+  </ul>
+</details>
+ 
+ <!-- Features -->
+
+### Key Features <a name="key-features"></a>
 
 
-  html&css
-  
-  Fagma
-  
-  Git,Github and Visual Studio Code
+- **[Fully Responsive Portfolio]**
 
- 💻 Getting Started 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://theresetuyi.github.io/portfolio/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+ ## 💻 Getting Started 
  
 To get a local copy up and running, follow these steps.
 
- Prerequisites
+##  Prerequisites
 
 In order to run this project you need:
 VSCode 
 version control system
-Setup
+
+## Setup
+
 Clone this repository to your desired folder:
 
   cd my-folder
   git clone git@github.com:theresetuyi/porfolio.git
 
 
-Install
+### Install
 
 Install this project with:
 
@@ -61,51 +82,71 @@ Install this project with:
   cd my-project
   npm install
 
-
-Usage
+## Usage
 
 To run the project, execute the following command:
 If you have live server extension
 
-👥 Authors 
+## 👥 Authors 
 
-- GitHub: https://github.com/theresetuyi
-- Twitter:https://twitter.com/THERESETUYISAB2
-- LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe
+👤 **Author1**
 
-👥 Authors 
+- GitHub: [@githubhandle](https://github.com/theresetuyi)
+- Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
 
-- GitHub:https://github.com/Gardimy
-- Twitter:https://twitter.com/
-- LinkedIn:https://www.linkedin.com/in/gardimy-charles-40b795212/
+## 👥 Authors 
 
- 🔭 Future Features 
- 
--I will like to add new technology
--I will lake to add js code 
--I would still let it be public
+- GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
+- Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
-🤝 Contributing
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[I will like to add new technology]**
+- [ ] **[I will lake to add js code ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]
-https://github.com/theresetuyi/porfolio/issues
+Feel free to check the [issues page](https://github.com/theresetuyi/porfolio/issues).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support 
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
  Write a message to encourage readers to support your project
 
 If you like this project type ❤❤
 
- 🙏 Acknowledgments 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
  Give credit to everyone who inspired your codebase.
 
-I would like to thank my partner 
+I would like to thank my partner (Hamdullah Andar)
 
-📝 License 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License 
 
 This project is [MIT](./LICENSE) licensed.
 

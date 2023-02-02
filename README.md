@@ -1,4 +1,4 @@
- Accessibility
+ Accessibility day 2
 <a name="readme-top"></a>
 Accessibilty day 2
 <div align="center">
@@ -32,12 +32,13 @@ Accessibilty day 2
 
  ## 🛠 Built With 
 
-
-  html&css
-  
-  Fagma
-  
-  Git,Github and Visual Studio Code
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/"> html&css</a></li>
+  </ul>
+</details>
+ 
 
  ## 💻 Getting Started 
  

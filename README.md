@@ -52,7 +52,7 @@ Accessibilty day 2
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://theresetuyi.github.io/portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,15 +89,17 @@ If you have live server extension
 
 ## 👥 Authors 
 
-- GitHub: https://github.com/theresetuyi
-- Twitter:https://twitter.com/THERESETUYISAB2
-- LinkedIn:https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/theresetuyi)
+- Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
 
 ## 👥 Authors 
 
-- GitHub: https://github.com/Hamdullah-Andar
-- Twitter: https://twitter.com/HamdullahAndar
-- LinkedIn: https://www.linkedin.com/in/hamdullah-andar-98b35894/
+- GitHub: [@githubhandle](https://github.com/Hamdullah-Andar)
+- Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
 <!-- FUTURE FEATURES -->
 
@@ -138,7 +140,7 @@ If you like this project type ❤❤
 
  Give credit to everyone who inspired your codebase.
 
-I would like to thank my partner 
+I would like to thank my partner (Hamdullah Andar)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -39,6 +39,22 @@ Accessibilty day 2
   </ul>
 </details>
  
+ <!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Fully Responsive Portfolio]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  ## 💻 Getting Started 
  
@@ -83,30 +99,50 @@ If you have live server extension
 - Twitter: https://twitter.com/HamdullahAndar
 - LinkedIn: https://www.linkedin.com/in/hamdullah-andar-98b35894/
 
- ## 🔭 Future Features 
- 
--I will like to add new technology
--I will lake to add js code 
+<!-- FUTURE FEATURES -->
 
-## 🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[I will like to add new technology]**
+- [ ] **[I will lake to add js code ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]
-https://github.com/theresetuyi/porfolio/issues
+Feel free to check the [issues page](https://github.com/theresetuyi/porfolio/issues).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support 
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
  Write a message to encourage readers to support your project
 
 If you like this project type ❤❤
 
- ## 🙏 Acknowledgments 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
  Give credit to everyone who inspired your codebase.
 
 I would like to thank my partner 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License 
 

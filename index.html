@@ -10,21 +10,23 @@
 <body>
   
   <header>
-    <nav>
-      <div class="menu-bar">
+    <nav class="nav-bar">
         <a href="#" class="logo">Therese TUYISABE</a>
-        <a href="#" class="hambug-menu"><img src="Images/menu.svg" alt="menu"></a>
-       
-		<ul id="menu">
-			  <li><a href="#works-container">Portfolio</a></li>
-			  <li><a href="#about-container">About</a></li>
-			  <li><a href="#contact-form-container">Contact</a></li>
-			</ul>
         
-      </div>
-    </nav>
+		<ul class="menu">
+			  <li class="nav-item"><a href="#works-container"class="nav-link">Portfolio</a></li>
+			  <li class="nav-item"><a href="#about-container" class="nav-link">About</a></li>
+			  <li class="nav-item"><a href="#contact-form-container" class="nav-link">Contact</a></li>
+			</ul>
+        <div class="nav-icon">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
 
-    <section class="head-section">
+        </div>
+    </nav>
+<script src="humbager.js"></script>
+    <section class="head-section" id="works-container">
       
       <h1 class="header-title">I'm Therese <br> Glad to see you!</h1>
       
@@ -160,7 +162,7 @@
     </section>
   </section>
 
-  <section class="about-section">
+  <section class="about-section" id="about-container">
     <section class="about">
 
       <h2 class="title">About <br> Myself</h2>
@@ -216,7 +218,7 @@
     </section>
   </section>
 
-  <section class="formx">
+  <section class="formx"id="contact-form-container">
     <div class="contact-form">
       <h2 class="contact-title">Contact me</h2>
       <p class="contact-text">If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I'd love to help with it </p>

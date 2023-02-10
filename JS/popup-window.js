@@ -20,7 +20,7 @@ function openModal(modal0) {
   overlay.classList.add('active');
 }
 
-function closeModal(modal0) { // eslint-disable-line
+function closeModal(modal0) {
   if (modal0 == null) return;
   modal0.classList.remove('active');
   overlay.classList.remove('active');
@@ -28,8 +28,8 @@ function closeModal(modal0) { // eslint-disable-line
 
 openModalButtons.forEach((button) => {
   button.addEventListener('click', () => {
-  const modal0 = document.querySelector(button.dataset.modalTarget);
-  openModal(modal0);
+    const modal0 = document.querySelector(button.dataset.modalTarget);
+    openModal(modal0);
   });
 });
 
@@ -38,6 +38,15 @@ closeModalButtons.forEach((button) => {
     const modal0 = button.closest('.modal0');
     closeModal(modal0);
   });
+});
+
+/* modal1 */
+
+function closeModal1(modal1) { // eslint-disable-line
+  if (modal1 == null) return;
+  modal1.classList.remove('active');
+  overlay.classList.remove('active');
+}
 
 openModalButtons.forEach((button) => {
   button.addEventListener('click', () => {
@@ -64,5 +73,5 @@ overlay.addEventListener('click', () => {
   const modals = document.querySelectorAll('.modal1.active');
   modals.forEach((modal1) => {
     closeModal(modal1);
-   });
-}); 
+  });
+});

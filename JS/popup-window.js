@@ -20,7 +20,7 @@ function openModal(modal0) {
   overlay.classList.add('active');
 }
 
-function closeModal(modal0) {
+function closeModal1(modal0) { // eslint-disable-line
   if (modal0 == null) return;
   modal0.classList.remove('active');
   overlay.classList.remove('active');
@@ -28,8 +28,8 @@ function closeModal(modal0) {
 
 openModalButtons.forEach((button) => {
   button.addEventListener('click', () => {
-    const modal0 = document.querySelector(button.dataset.modalTarget);
-    openModal(modal0);
+  const modal0 = document.querySelector(button.dataset.modalTarget);
+  openModal(modal0);
   });
 });
 

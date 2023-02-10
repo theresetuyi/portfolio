@@ -191,7 +191,7 @@ li:hover {
 }
 
 .grid-item-section .sub-title li + li::before {
-  content: url("images/Counter.png");
+  content: url("image/Counter.png");
   margin: 8px;
 }
 
@@ -262,7 +262,7 @@ li:hover {
   justify-content: center;
   height: fit-content;
   width: 100%;
-  background-image: url("images/shapes.png");
+  background-image: url("image/shapes.png");
   padding-top: 20%;
   padding-left: 3%;
   padding-bottom: 20%;
@@ -816,6 +816,72 @@ li:hover {
   transform: translate(0, -2px);
 }
 
+.form {
+    margin-top: 50px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .form-input {
+    background: #fff;
+    border: 1px solid #cfd8dc;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #172b4d;
+    padding: 2%;
+    height: 48px;
+    width: 100%;
+  }
+  
+  .form-textarea {
+    background: #fff;
+    border: 1px solid #cfd8dc;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #b3bac5;
+    padding: 2%;
+    width: 100%;
+  }
+  
+  .form-button {
+    background: #fff;
+    border: 1px solid #7f8cff;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #6070ff;
+    padding: 12px;
+  }
+  
+  .form-button:hover {
+    background: #6070ff;
+    border: 1px solid #fff;
+    box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+    border-radius: 8px;
+    color: #fff;
+  }
+  
+  .form-button:active {
+    background: #2230d2;
+    border-radius: 8px;
+    color: #fff;
+  }
+
 @media only screen and (min-width: 768px) {
   .contact-me {
     display: flex;
@@ -1020,73 +1086,6 @@ li:hover {
   pointer-events: all;
 }
 
-
-.form {
-  margin-top: 50px;
-}
-
-form {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 20px;
-}
-
-.form-input {
-  background: #fff;
-  border: 1px solid #cfd8dc;
-  border-radius: 8px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 17px;
-  line-height: 20px;
-  color: #172b4d;
-  padding: 2%;
-  height: 48px;
-  width: 100%;
-}
-
-.form-textarea {
-  background: #fff;
-  border: 1px solid #cfd8dc;
-  border-radius: 8px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 24px;
-  color: #b3bac5;
-  padding: 2%;
-  width: 100%;
-}
-
-.form-button {
-  background: #fff;
-  border: 1px solid #7f8cff;
-  border-radius: 8px;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #6070ff;
-  padding: 12px;
-}
-
-.form-button:hover {
-  background: #6070ff;
-  border: 1px solid #fff;
-  box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
-  border-radius: 8px;
-  color: #fff;
-}
-
-.form-button:active {
-  background: #2230d2;
-  border-radius: 8px;
-  color: #fff;
-}
-
 @media only screen and (min-width: 768px) {
   .modal0,
   .modal1 {
@@ -1114,13 +1113,13 @@ form {
   }
 
   #photo11 {
-    background-image: url("Images/Portfolio-1.png");
+    background-image: url("image/d-popup.jpg");
     background-size: contain;
     background-repeat: no-repeat;
   }
 
   #photo00 {
-    background-image: url("images/Portfolio111.png");
+    background-image: url("image/Portfolio111.png");
     background-size: contain;
     background-repeat: no-repeat;
   }

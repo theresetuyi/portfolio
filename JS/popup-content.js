@@ -175,6 +175,5 @@ modal3.insertAdjacentHTML(
             </div>
         </div>
     </section> 
-
-`,
+    `,
 );

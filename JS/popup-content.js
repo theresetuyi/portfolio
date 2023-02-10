@@ -9,7 +9,7 @@ const allContent = [
     ab? Natus minima minus similique nisi eos, deleniti laudantium 
     nihil impedit assumenda! ducimus delectus enim beatae natus 
     ab? Natus minima minus`,
-    languages: ['HTML', 'css', 'javaScript'],
+    languages: ['HTML', 'css', 'javaScript']
   },
   {
     name: 'Tonic',
@@ -19,7 +19,7 @@ const allContent = [
     ab? Natus minima minus similique nisi eos, deleniti laudantium 
     nihil impedit assumenda! ducimus delectus enim beatae natus 
     ab? Natus minima minus`,
-    languages: ['HTML', 'css', 'javaScript'],
+    languages: ['HTML', 'css', 'javaScript']
   },
   {
     name: 'Tonic',
@@ -29,7 +29,7 @@ const allContent = [
     ab? Natus minima minus similique nisi eos, deleniti laudantium 
     nihil impedit assumenda! ducimus delectus enim beatae natus 
     ab? Natus minima minus`,
-    languages: ['HTML', 'css', 'javaScript'],
+    languages: ['HTML', 'css', 'javaScript']
   },
   {
     name: 'Multi-Post Stories',
@@ -39,11 +39,11 @@ const allContent = [
     ab? Natus minima minus similique nisi eos, deleniti laudantium 
     nihil impedit assumenda! ducimus delectus enim beatae natus 
     ab? Natus minima minus`,
-    languages: ['HTML', 'css', 'javaScript'],
-  },
-];
+    languages: ['HTML', 'css', 'javaScript']
+  }
+]
 
-const modal0 = document.querySelector('.modal0');
+const modal0 = document.querySelector('.modal0')
 
 modal0.insertAdjacentHTML(
   'afterbegin',
@@ -74,10 +74,10 @@ modal0.insertAdjacentHTML(
         </div>
     </section> 
 
-`,
-);
+`
+)
 
-const modal1 = document.querySelector('.modal1');
+const modal1 = document.querySelector('.modal1')
 
 modal1.insertAdjacentHTML(
   'afterbegin',
@@ -108,10 +108,10 @@ modal1.insertAdjacentHTML(
         </div>
     </section> 
 
-`,
-);
+`
+)
 
-const modal2 = document.querySelector('modal2');
+const modal2 = document.querySelector('modal2')
 
 modal2.insertAdjacentHTML(
   'afterbegin',
@@ -142,10 +142,10 @@ modal2.insertAdjacentHTML(
         </div>
     </section> 
 
-`,
-);
+`
+)
 
-const modal3 = document.querySelector(' modal3');
+const modal3 = document.querySelector(' modal3')
 
 modal3.insertAdjacentHTML(
   'afterbegin',
@@ -175,5 +175,5 @@ modal3.insertAdjacentHTML(
             </div>
         </div>
     </section> 
-    `,
-);
+    `
+)

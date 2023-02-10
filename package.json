@@ -1,22 +1,22 @@
 {
-  "name": "portfolio",
+  "name": "first_portfolio",
   "version": "1.0.0",
-  "description": "<a name=\"readme-top\"></a>",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theresetuyi/portfolio.git"
+    "url": "git+https://github.com/theresetuyi/portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theresetuyi/portfolio/issues"
+    "url": "https://github.com/theresetuyi/portfolio/issues/11"
   },
-  "homepage": "https://github.com/theresetuyi/portfolio#readme",
+  "homepage": "https://github.com/theresetuyi/portfolio",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",

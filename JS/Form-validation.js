@@ -1,4 +1,4 @@
-const formelement = document.getElementsByTagName('form');// eslint-disable-line
+const formelement = document.getElementsByTagName('form');
 const name = document.getElementById('username');
 const email = document.getElementById('email');
 const message = document.getElementById('message');

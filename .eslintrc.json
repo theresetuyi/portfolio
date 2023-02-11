@@ -11,6 +11,7 @@
   },
   "extends": ["airbnb-base"],
   "rules": {
+   "eslint lignebreak-style":["error","windows"],
     "no-shadow": "off",
     "no-param-reassign": "off",
     "eol-last": "off",

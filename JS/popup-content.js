@@ -1,6 +1,4 @@
-/*  eslint linebreak-style: ['error', 'windows']    */
-
-const allContent = [
+const allContent = [// eslint-disable-line
   {
     name: 'Multi-Post Stories',
     work: ['CANOPY', 'Back End Dev', '2015'],
